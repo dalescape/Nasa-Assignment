@@ -1,0 +1,42 @@
+* {
+    box-sizing: border-box;
+    background-color: rgb(204, 181, 181);
+}
+
+h1 {
+    text-align: center;
+    font-family: ComicSansMS;
+}
+
+h4 {
+    font-family: ComicSansMS;
+}
+
+input {
+    font-family: ComicSansMS;
+
+}
+
+button {
+    font-family: ComicSansMS;
+    font-size: small;
+    border-radius: 4px;
+    background-color: bisque;
+    border: 2px solid palevioletred;
+}
+
+h2 {
+    text-align: center;
+    font-family: ComicSansMS;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    height: 300px;
+}
+
+h3 {
+    text-align: center;
+    font-family: ComicSansMS;
+}
